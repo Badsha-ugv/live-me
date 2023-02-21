@@ -1,0 +1,23 @@
+
+ul{
+	list-style: none;
+}
+h2{
+	border-bottom: 4px solid;
+}
+.my-img{
+	width:250px;
+	border-radius: 50%; 
+}
+.social{
+	font-size: 35px;
+		display: flex;
+		justify-content: space-evenly;
+		background: #598784;
+		
+		cursor: pointer;
+}
+.social a{
+	color: white;
+	transition: all .5s linear;
+}
